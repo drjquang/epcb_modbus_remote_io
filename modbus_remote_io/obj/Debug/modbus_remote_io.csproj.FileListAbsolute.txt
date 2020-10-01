@@ -1,0 +1,13 @@
+C:\Users\Felix\source\repos\modbus_remote_io\modbus_remote_io\bin\Debug\modbus_remote_io.exe.config
+C:\Users\Felix\source\repos\modbus_remote_io\modbus_remote_io\bin\Debug\modbus_remote_io.exe
+C:\Users\Felix\source\repos\modbus_remote_io\modbus_remote_io\bin\Debug\modbus_remote_io.pdb
+C:\Users\Felix\source\repos\modbus_remote_io\modbus_remote_io\obj\Debug\modbus_remote_io.csprojAssemblyReference.cache
+C:\Users\Felix\source\repos\modbus_remote_io\modbus_remote_io\obj\Debug\modbus_remote_io.Properties.Resources.resources
+C:\Users\Felix\source\repos\modbus_remote_io\modbus_remote_io\obj\Debug\modbus_remote_io.csproj.GenerateResource.cache
+C:\Users\Felix\source\repos\modbus_remote_io\modbus_remote_io\obj\Debug\modbus_remote_io.csproj.CoreCompileInputs.cache
+C:\Users\Felix\source\repos\modbus_remote_io\modbus_remote_io\obj\Debug\modbus_remote_io.exe
+C:\Users\Felix\source\repos\modbus_remote_io\modbus_remote_io\obj\Debug\modbus_remote_io.pdb
+C:\Users\Felix\source\repos\modbus_remote_io\modbus_remote_io\obj\Debug\modbus_remote_io.Form1.resources
+C:\Users\Felix\source\repos\modbus_remote_io\modbus_remote_io\obj\Debug\modbus_remote_io.csproj.CopyComplete
+C:\Users\Felix\source\repos\modbus_remote_io\modbus_remote_io\bin\Debug\nmodbuspc.dll
+C:\Users\Felix\source\repos\modbus_remote_io\modbus_remote_io\bin\Debug\log4net.dll
